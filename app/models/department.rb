@@ -1,3 +1,3 @@
 class Department < ActiveRecord::Base
-	has_many :courses #or belongs_to??
+	has_many :courses 
 end
