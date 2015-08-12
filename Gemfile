@@ -58,5 +58,13 @@ group :development do
 
   # let's you use binding.pry
   gem 'pry', '~> 0.10.1'
+  gem 'backbars'
+
+  gem 'pry-rails'
+
+  gem 'devise'
+  
+  gem "rails-assets-underscore", source: "https://rails-assets.org"
+  gem "rails-assets-backbone", source: "https://rails-assets.org"
 end
 
