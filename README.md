@@ -1,2 +1,2 @@
 # ClassiCAL
-group project GA
+
